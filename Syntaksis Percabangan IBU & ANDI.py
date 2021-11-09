@@ -4,8 +4,8 @@ Ibu Menyuruh andi ke pasar membeli 1 botol susu, dan bilamana ada telur. beli 1 
 print("andi pergi ke pasar")
 print("andi menanyakan apakah ada susu?")
 
-stock_milk = 180
-stock_egg = 50
+stock_milk = 100
+stock_egg = 10
 
 if stock_milk > 0 :
     print(f"stok susu ada : {stock_milk} botol")
